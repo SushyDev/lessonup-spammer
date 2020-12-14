@@ -1,0 +1,16 @@
+{
+  "name": "lessonup-spammer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "nodemon": "^2.0.6",
+    "puppeteer": "^5.5.0"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
